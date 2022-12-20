@@ -54,7 +54,7 @@ ROOT_URLCONF = 'Entregable.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["C:/Users/Josefina/Desktop/Entregable MTV/Entregable/AppEntregable/templates"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
